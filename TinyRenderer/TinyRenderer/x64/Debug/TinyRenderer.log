@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\infivr-pc-07\Documents\GitHub\TinyRenderer\TinyRenderer\TinyRenderer\main.cpp(11,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TinyRenderer.vcxproj -> C:\Users\infivr-pc-07\Documents\GitHub\TinyRenderer\TinyRenderer\x64\Debug\TinyRenderer.exe
